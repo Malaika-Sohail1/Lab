@@ -5,11 +5,11 @@ public class Date {
     private int month;
     private int year;
 
-    //Date(int day, int month, int year){
-      //  this.day=day;
-//        this.month=month;
-//        this.year=year;
-//    }
+    Date(int day, int month, int year){
+     this.day=day;
+     this.month=month;
+     this.year=year;
+ }
 
     public void setDay() {
         this.day=day;
