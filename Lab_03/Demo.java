@@ -41,6 +41,7 @@ public class Demo {
         int month = sc.nextInt();
         System.out.println("Enter Year");
         int year = sc.nextInt();
-        Date date = new Date();
+        Date date = new Date(day,month,year);
+        System.out.println(date);
     }
 }
