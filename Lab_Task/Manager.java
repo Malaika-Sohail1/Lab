@@ -36,9 +36,6 @@ public class Manager {
 
     }
 
-    public int ascendingOrder(ArrayList<Taxi> taxi,Location location){
-
-    }
 }
 
 
